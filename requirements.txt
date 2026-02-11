@@ -1,6 +1,6 @@
 #djangorestframework==2.3.13    # It's not necessary since Taiga 1.7
 CairoSVG==2.0.3
-Django==1.11.2
+Django==4.2.28
 Markdown==2.6.8
 Pillow==4.1.1
 PyJWT==1.5.0
@@ -9,7 +9,7 @@ amqp==2.1.4
 asana==0.6.5
 bleach==2.0.0
 celery==4.0.2
-cryptography==1.9
+cryptography==46.0.5
 cssutils==1.0.2
 diff-match-patch==20121119
 django-ipware==1.1.6
